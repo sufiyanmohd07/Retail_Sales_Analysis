@@ -169,3 +169,13 @@ Retail_Sales_Analysis/
 ## Power BI Dashboard Preview
 
 ![Retail Sales Performance Dashboard](IMAGES/retail_sales_dashboard.png)
+
+## How to Run This Project
+
+### 1. Clone the Repository
+Download or clone this repository to your local computer.
+
+### 2. Install Required Python Libraries
+
+```bash
+pip install pandas openpyxl
