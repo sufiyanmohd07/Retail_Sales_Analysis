@@ -1,0 +1,43 @@
+# Retail Sales & Profitability Analysis
+
+## 1. Project Overview
+
+This project analyses retail sales data to understand sales performance, profitability, product performance, and regional performance.
+
+## 2. Business Problem
+
+A retail business needs to understand which products and regions contribute most to its sales and profits. It also needs to investigate whether discounts are associated with lower profitability.
+
+The purpose of this analysis is to turn sales data into useful information that can support better business decisions.
+
+## 3. Project Objectives
+
+1. Calculate total sales and total profit.
+2. Identify the best-performing products and categories.
+3. Compare sales and profits across regions and cities.
+4. Analyse the quantities of products sold.
+5. Understand the distribution of payment methods.
+6. Examine the relationship between discounts and profitability.
+7. Provide data-supported recommendations to improve business performance.
+
+## 4. Tools and Technologies
+
+- Microsoft Excel: Initial data inspection and analysis.
+- Python: Programming and data analysis.
+- Pandas: Data manipulation and analysis.
+- SQL: Querying structured data where appropriate.
+- Power BI: Interactive dashboards and visualisations.
+- GitHub: Project version control and portfolio presentation.
+
+## 5. Expected Deliverables
+
+1. An inspected and validated dataset.
+2. Python code for data analysis.
+3. Excel analysis and summary tables.
+4. An interactive Power BI dashboard.
+5. A summary of key findings and recommendations.
+6. Project documentation for GitHub.
+
+## 6. Important Note
+
+The findings and recommendations will be based on the actual dataset. The business questions and objectives may be refined after inspecting the data and validating the calculations.

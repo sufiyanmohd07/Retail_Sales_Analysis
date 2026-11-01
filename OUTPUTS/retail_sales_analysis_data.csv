@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price_INR,Discount_Pct,Sales_INR,Profit_INR,Payment_Method,Expected_Sales_INR,Sales_Difference_INR,Month
+ORD0054,2025-01-01,West,Ahmedabad,Home & Kitchen,Desk Lamp,3,999,10,2697.3,509.49,Debit Card,2697.3,0.0,2025-01
+ORD0138,2025-01-02,West,Pune,Home & Kitchen,Mixer,3,2499,0,7497.0,1349.46,UPI,7497.0,0.0,2025-01
+ORD0262,2025-01-02,South,Chennai,Stationery,Planner,2,349,15,593.3,146.58,Credit Card,593.3,0.0,2025-01
+ORD0022,2025-01-04,South,Hyderabad,Home & Kitchen,Water Bottle,4,399,15,1356.6,319.2,UPI,1356.6,0.0,2025-01
+ORD0282,2025-01-05,North,Chandigarh,Fashion,Backpack,2,1199,10,2158.2,383.68,Net Banking,2158.2000000000003,-0.0,2025-01
+ORD0299,2025-01-07,West,Surat,Stationery,Notebook Pack,3,249,10,672.3,209.16,Credit Card,672.3000000000001,-0.0,2025-01
+ORD0192,2025-01-09,West,Mumbai,Fashion,T-Shirt,3,499,10,1347.3,329.34,Net Banking,1347.3,0.0,2025-01
+ORD0047,2025-01-13,North,Chandigarh,Fashion,Sneakers,3,2299,20,5517.6,68.97,Debit Card,5517.6,0.0,2025-01
+ORD0205,2025-01-14,North,Chandigarh,Stationery,Notebook Pack,1,249,5,236.55,82.17,Cash on Delivery,236.54999999999998,0.0,2025-01
+ORD0094,2025-01-17,North,Lucknow,Fashion,Wallet,1,699,0,699.0,209.7,Debit Card,699.0,0.0,2025-01
+ORD0134,2025-01-17,West,Pune,Stationery,Planner,4,349,15,1186.6,293.16,UPI,1186.6,0.0,2025-01
+ORD0264,2025-01-17,East,Kolkata,Home & Kitchen,Storage Box,1,599,10,539.1,119.8,Cash on Delivery,539.1,0.0,2025-01
+ORD0102,2025-01-19,East,Kolkata,Fashion,Sneakers,1,2299,20,1839.2,22.99,Cash on Delivery,1839.2,0.0,2025-01
+ORD0201,2025-01-22,West,Surat,Fashion,Backpack,1,1199,10,1079.1,191.84,Debit Card,1079.1000000000001,-0.0,2025-01
+ORD0239,2025-01-22,West,Mumbai,Fashion,Wallet,2,699,10,1258.2,279.6,Credit Card,1258.2,0.0,2025-01
+ORD0040,2025-01-23,South,Chennai,Home & Kitchen,Mixer,1,2499,5,2374.05,324.87,Cash on Delivery,2374.0499999999997,0.0,2025-01
+ORD0117,2025-01-24,West,Mumbai,Fashion,Sneakers,1,2299,0,2299.0,482.79,Net Banking,2299.0,0.0,2025-01
+ORD0241,2025-01-26,North,Jaipur,Electronics,Wireless Mouse,1,799,10,719.1,143.82,UPI,719.1,0.0,2025-01
+ORD0089,2025-01-27,West,Surat,Electronics,Wireless Mouse,1,799,0,799.0,223.72,UPI,799.0,0.0,2025-01
+ORD0148,2025-01-27,West,Ahmedabad,Fashion,Backpack,2,1199,0,2398.0,623.48,Cash on Delivery,2398.0,0.0,2025-01
+ORD0172,2025-01-27,West,Mumbai,Fashion,Backpack,2,1199,5,2278.1,503.58,Debit Card,2278.1,0.0,2025-01
+ORD0257,2025-01-30,East,Patna,Electronics,Power Bank,1,1499,0,1499.0,299.8,Credit Card,1499.0,0.0,2025-01
+ORD0026,2025-02-01,East,Patna,Electronics,Keyboard,1,1299,10,1169.1,194.85,Credit Card,1169.1000000000001,-0.0,2025-02
+ORD0064,2025-02-02,East,Ranchi,Fashion,Wallet,1,699,0,699.0,209.7,Cash on Delivery,699.0,0.0,2025-02
+ORD0259,2025-02-05,East,Kolkata,Fashion,Wallet,1,699,0,699.0,209.7,Cash on Delivery,699.0,0.0,2025-02
+ORD0096,2025-02-06,South,Bengaluru,Fashion,Sneakers,2,2299,10,4138.2,505.78,Debit Card,4138.2,0.0,2025-02
+ORD0036,2025-02-07,North,Lucknow,Home & Kitchen,Mixer,4,2499,15,8496.6,299.88,Debit Card,8496.6,0.0,2025-02
+ORD0211,2025-02-07,North,Lucknow,Electronics,Power Bank,2,1499,10,2698.2,299.8,Credit Card,2698.2000000000003,-0.0,2025-02
+ORD0273,2025-02-07,North,Jaipur,Stationery,Pens Set,3,149,5,424.65,156.45,UPI,424.65,0.0,2025-02
+ORD0295,2025-02-07,South,Chennai,Home & Kitchen,Desk Lamp,2,999,10,1798.2,339.66,Cash on Delivery,1798.2,0.0,2025-02
+ORD0114,2025-02-08,East,Patna,Fashion,Wallet,2,699,15,1188.3,209.7,Net Banking,1188.3,0.0,2025-02
+ORD0168,2025-02-09,South,Kochi,Stationery,Notebook Pack,2,249,15,423.3,114.54,Credit Card,423.3,0.0,2025-02
+ORD0291,2025-02-09,West,Pune,Home & Kitchen,Desk Lamp,2,999,10,1798.2,339.66,Cash on Delivery,1798.2,0.0,2025-02
+ORD0162,2025-02-10,East,Patna,Fashion,T-Shirt,1,499,0,499.0,159.68,Net Banking,499.0,0.0,2025-02
+ORD0214,2025-02-10,West,Pune,Fashion,T-Shirt,2,499,10,898.2,219.56,UPI,898.2,0.0,2025-02
+ORD0216,2025-02-11,South,Chennai,Home & Kitchen,Desk Lamp,2,999,0,1998.0,539.46,Net Banking,1998.0,0.0,2025-02
+ORD0254,2025-02-11,East,Patna,Electronics,Wireless Mouse,1,799,10,719.1,143.82,Net Banking,719.1,0.0,2025-02
+ORD0199,2025-02-12,East,Kolkata,Stationery,Pens Set,2,149,5,283.1,104.3,UPI,283.09999999999997,0.0,2025-02
+ORD0288,2025-02-12,East,Ranchi,Fashion,Backpack,4,1199,15,4076.6,527.56,Credit Card,4076.6,0.0,2025-02
+ORD0170,2025-02-13,North,Delhi,Home & Kitchen,Desk Lamp,5,999,10,4495.5,849.15,Net Banking,4495.5,0.0,2025-02
+ORD0002,2025-02-14,East,Kolkata,Electronics,Wireless Mouse,1,799,10,719.1,143.82,UPI,719.1,0.0,2025-02
+ORD0210,2025-02-14,South,Chennai,Stationery,Planner,2,349,15,593.3,146.58,Net Banking,593.3,0.0,2025-02
+ORD0136,2025-02-16,North,Delhi,Electronics,Headphones,1,1999,0,1999.0,439.78,Net Banking,1999.0,0.0,2025-02
+ORD0152,2025-02-16,North,Chandigarh,Stationery,Planner,1,349,5,331.55,108.19,Debit Card,331.55,0.0,2025-02
+ORD0005,2025-02-17,East,Kolkata,Fashion,Sneakers,2,2299,15,3908.3,275.88,Cash on Delivery,3908.2999999999997,0.0,2025-02
+ORD0175,2025-02-17,East,Patna,Electronics,Headphones,1,1999,20,1599.2,39.98,Debit Card,1599.2,0.0,2025-02
+ORD0287,2025-02-17,East,Ranchi,Stationery,Planner,1,349,0,349.0,125.64,Credit Card,349.0,0.0,2025-02
+ORD0028,2025-02-20,South,Hyderabad,Electronics,Keyboard,1,1299,10,1169.1,194.85,Credit Card,1169.1000000000001,-0.0,2025-02
+ORD0008,2025-02-21,East,Patna,Stationery,Office Chair,1,5499,5,5224.05,604.89,Debit Card,5224.05,0.0,2025-02
+ORD0075,2025-02-22,West,Mumbai,Electronics,Headphones,2,1999,10,3598.2,479.76,UPI,3598.2000000000003,-0.0,2025-02
+ORD0182,2025-02-22,South,Chennai,Electronics,Keyboard,1,1299,15,1104.15,129.9,Credit Card,1104.1499999999999,0.0,2025-02
+ORD0297,2025-02-22,North,Delhi,Home & Kitchen,Desk Lamp,2,999,10,1798.2,339.66,Cash on Delivery,1798.2,0.0,2025-02
+ORD0298,2025-02-22,South,Hyderabad,Fashion,Backpack,2,1199,15,2038.3,263.78,Cash on Delivery,2038.3,0.0,2025-02
+ORD0059,2025-02-24,East,Bhubaneswar,Home & Kitchen,Desk Lamp,1,999,0,999.0,269.73,UPI,999.0,0.0,2025-02
+ORD0247,2025-02-27,West,Pune,Stationery,Office Chair,2,5499,0,10998.0,1759.68,Debit Card,10998.0,0.0,2025-02
+ORD0155,2025-02-28,West,Surat,Electronics,Headphones,2,1999,10,3598.2,479.76,Net Banking,3598.2000000000003,-0.0,2025-02
+ORD0131,2025-03-01,North,Delhi,Electronics,Headphones,5,1999,0,9995.0,2198.9,Credit Card,9995.0,0.0,2025-03
+ORD0227,2025-03-02,North,Delhi,Stationery,Office Chair,3,5499,5,15672.15,1814.67,Debit Card,15672.15,0.0,2025-03
+ORD0085,2025-03-03,North,Jaipur,Home & Kitchen,Desk Lamp,1,999,10,899.1,169.83,Net Banking,899.1,0.0,2025-03
+ORD0019,2025-03-06,North,Chandigarh,Home & Kitchen,Mixer,2,2499,10,4498.2,399.84,Credit Card,4498.2,0.0,2025-03
+ORD0053,2025-03-07,North,Chandigarh,Stationery,Pens Set,2,149,5,283.1,104.3,Net Banking,283.09999999999997,0.0,2025-03
+ORD0174,2025-03-08,South,Chennai,Stationery,Office Chair,3,5499,10,14847.3,989.82,Net Banking,14847.300000000001,-0.0,2025-03
+ORD0139,2025-03-09,South,Chennai,Home & Kitchen,Mixer,1,2499,5,2374.05,324.87,Credit Card,2374.0499999999997,0.0,2025-03
+ORD0038,2025-03-10,West,Mumbai,Electronics,Keyboard,1,1299,10,1169.1,194.85,Debit Card,1169.1000000000001,-0.0,2025-03
+ORD0261,2025-03-10,West,Mumbai,Home & Kitchen,Desk Lamp,2,999,10,1798.2,339.66,Credit Card,1798.2,0.0,2025-03
+ORD0013,2025-03-12,East,Kolkata,Electronics,Wireless Mouse,1,799,0,799.0,223.72,Cash on Delivery,799.0,0.0,2025-03
+ORD0266,2025-03-13,West,Pune,Fashion,Sneakers,1,2299,15,1954.15,137.94,Net Banking,1954.1499999999999,0.0,2025-03
+ORD0292,2025-03-13,South,Chennai,Electronics,Wireless Mouse,2,799,15,1358.3,207.74,Debit Card,1358.3,0.0,2025-03
+ORD0228,2025-03-15,North,Chandigarh,Electronics,Wireless Mouse,1,799,10,719.1,143.82,Cash on Delivery,719.1,0.0,2025-03
+ORD0108,2025-03-16,East,Bhubaneswar,Home & Kitchen,Water Bottle,1,399,15,339.15,79.8,Cash on Delivery,339.15,0.0,2025-03
+ORD0143,2025-03-17,South,Bengaluru,Fashion,Sneakers,1,2299,10,2069.1,252.89,Debit Card,2069.1,0.0,2025-03
+ORD0233,2025-03-17,North,Delhi,Electronics,Keyboard,1,1299,5,1234.05,259.8,Credit Card,1234.05,0.0,2025-03
+ORD0110,2025-03-18,East,Ranchi,Fashion,Sneakers,2,2299,10,4138.2,505.78,Cash on Delivery,4138.2,0.0,2025-03
+ORD0090,2025-03-19,North,Lucknow,Electronics,Keyboard,1,1299,15,1104.15,129.9,Net Banking,1104.1499999999999,0.0,2025-03
+ORD0032,2025-03-22,South,Hyderabad,Home & Kitchen,Water Bottle,2,399,10,718.2,199.5,Credit Card,718.2,0.0,2025-03
+ORD0208,2025-03-22,North,Lucknow,Home & Kitchen,Water Bottle,5,399,15,1695.75,399.0,Credit Card,1695.75,0.0,2025-03
+ORD0218,2025-03-22,East,Ranchi,Stationery,Planner,1,349,10,314.1,90.74,Debit Card,314.1,0.0,2025-03
+ORD0004,2025-03-23,East,Patna,Fashion,T-Shirt,1,499,15,424.15,84.83,UPI,424.15,0.0,2025-03
+ORD0171,2025-03-23,West,Ahmedabad,Fashion,Wallet,1,699,5,664.05,174.75,Net Banking,664.05,0.0,2025-03
+ORD0222,2025-03-23,East,Ranchi,Stationery,Office Chair,2,5499,0,10998.0,1759.68,Cash on Delivery,10998.0,0.0,2025-03
+ORD0101,2025-03-24,West,Surat,Stationery,Office Chair,2,5499,5,10448.1,1209.78,Net Banking,10448.1,0.0,2025-03
+ORD0181,2025-03-24,North,Jaipur,Fashion,Backpack,2,1199,15,2038.3,263.78,Net Banking,2038.3,0.0,2025-03
+ORD0178,2025-03-26,East,Kolkata,Stationery,Office Chair,2,5499,0,10998.0,1759.68,Cash on Delivery,10998.0,0.0,2025-03
+ORD0213,2025-03-26,North,Lucknow,Home & Kitchen,Mixer,4,2499,10,8996.4,799.68,Debit Card,8996.4,0.0,2025-03
+ORD0073,2025-03-27,South,Bengaluru,Fashion,Backpack,2,1199,15,2038.3,263.78,Net Banking,2038.3,0.0,2025-03
+ORD0280,2025-03-28,North,Chandigarh,Home & Kitchen,Water Bottle,2,399,15,678.3,159.6,UPI,678.3,0.0,2025-03
+ORD0093,2025-03-30,South,Bengaluru,Electronics,Power Bank,2,1499,10,2698.2,299.8,Debit Card,2698.2000000000003,-0.0,2025-03
+ORD0126,2025-03-31,North,Jaipur,Fashion,Sneakers,3,2299,5,6552.15,1103.52,Cash on Delivery,6552.15,0.0,2025-03
+ORD0158,2025-03-31,North,Chandigarh,Home & Kitchen,Mixer,1,2499,15,2124.15,74.97,UPI,2124.15,0.0,2025-03
+ORD0165,2025-04-01,East,Ranchi,Stationery,Office Chair,3,5499,10,14847.3,989.82,Credit Card,14847.300000000001,-0.0,2025-04
+ORD0100,2025-04-03,East,Ranchi,Electronics,Power Bank,1,1499,5,1424.05,224.85,UPI,1424.05,0.0,2025-04
+ORD0249,2025-04-05,North,Chandigarh,Fashion,T-Shirt,1,499,5,474.05,134.73,Cash on Delivery,474.04999999999995,0.0,2025-04
+ORD0180,2025-04-10,West,Surat,Stationery,Office Chair,3,5499,10,14847.3,989.82,Cash on Delivery,14847.300000000001,-0.0,2025-04
+ORD0240,2025-04-14,West,Ahmedabad,Home & Kitchen,Water Bottle,2,399,10,718.2,199.5,Credit Card,718.2,0.0,2025-04
+ORD0255,2025-04-14,North,Jaipur,Fashion,Wallet,1,699,0,699.0,209.7,Net Banking,699.0,0.0,2025-04
+ORD0039,2025-04-15,West,Surat,Fashion,Backpack,1,1199,5,1139.05,251.79,Debit Card,1139.05,0.0,2025-04
+ORD0137,2025-04-16,South,Bengaluru,Home & Kitchen,Storage Box,1,599,0,599.0,179.7,Net Banking,599.0,0.0,2025-04
+ORD0011,2025-04-19,West,Pune,Stationery,Planner,4,349,10,1256.4,362.96,Credit Card,1256.4,0.0,2025-04
+ORD0080,2025-04-19,West,Ahmedabad,Fashion,Sneakers,4,2299,10,8276.4,1011.56,Debit Card,8276.4,0.0,2025-04
+ORD0274,2025-04-19,North,Delhi,Stationery,Pens Set,2,149,10,268.2,89.4,Cash on Delivery,268.2,0.0,2025-04
+ORD0289,2025-04-19,East,Patna,Electronics,Wireless Mouse,2,799,5,1518.1,367.54,Net Banking,1518.1,0.0,2025-04
+ORD0206,2025-04-20,West,Surat,Home & Kitchen,Water Bottle,1,399,0,399.0,139.65,Credit Card,399.0,0.0,2025-04
+ORD0010,2025-04-23,West,Mumbai,Home & Kitchen,Water Bottle,3,399,5,1137.15,359.1,UPI,1137.1499999999999,0.0,2025-04
+ORD0124,2025-04-23,North,Lucknow,Home & Kitchen,Water Bottle,4,399,10,1436.4,399.0,Debit Card,1436.4,0.0,2025-04
+ORD0046,2025-04-24,North,Chandigarh,Fashion,Sneakers,3,2299,15,5862.45,413.82,Credit Card,5862.45,0.0,2025-04
+ORD0267,2025-04-24,East,Patna,Fashion,Backpack,2,1199,10,2158.2,383.68,Credit Card,2158.2000000000003,-0.0,2025-04
+ORD0071,2025-04-25,South,Hyderabad,Electronics,Keyboard,1,1299,0,1299.0,324.75,Credit Card,1299.0,0.0,2025-04
+ORD0149,2025-04-25,South,Chennai,Fashion,Backpack,3,1199,10,3237.3,575.52,Cash on Delivery,3237.3,0.0,2025-04
+ORD0057,2025-04-26,North,Jaipur,Electronics,Wireless Mouse,1,799,10,719.1,143.82,UPI,719.1,0.0,2025-04
+ORD0116,2025-04-27,South,Kochi,Electronics,Wireless Mouse,2,799,10,1438.2,287.64,UPI,1438.2,0.0,2025-04
+ORD0164,2025-05-01,South,Bengaluru,Fashion,T-Shirt,1,499,0,499.0,159.68,UPI,499.0,0.0,2025-05
+ORD0122,2025-05-02,East,Patna,Fashion,Sneakers,1,2299,15,1954.15,137.94,Cash on Delivery,1954.1499999999999,0.0,2025-05
+ORD0018,2025-05-03,South,Bengaluru,Electronics,Wireless Mouse,3,799,15,2037.45,311.61,Net Banking,2037.45,0.0,2025-05
+ORD0072,2025-05-03,North,Chandigarh,Electronics,Keyboard,2,1299,5,2468.1,519.6,Debit Card,2468.1,0.0,2025-05
+ORD0275,2025-05-03,West,Ahmedabad,Stationery,Planner,2,349,5,663.1,216.38,Debit Card,663.1,0.0,2025-05
+ORD0270,2025-05-04,North,Lucknow,Home & Kitchen,Desk Lamp,4,999,10,3596.4,679.32,Cash on Delivery,3596.4,0.0,2025-05
+ORD0285,2025-05-04,North,Lucknow,Fashion,Sneakers,3,2299,0,6897.0,1448.37,Cash on Delivery,6897.0,0.0,2025-05
+ORD0079,2025-05-05,East,Ranchi,Fashion,Backpack,2,1199,5,2278.1,503.58,Cash on Delivery,2278.1,0.0,2025-05
+ORD0021,2025-05-07,North,Delhi,Fashion,Backpack,2,1199,0,2398.0,623.48,Credit Card,2398.0,0.0,2025-05
+ORD0016,2025-05-15,North,Delhi,Fashion,T-Shirt,1,499,15,424.15,84.83,Net Banking,424.15,0.0,2025-05
+ORD0012,2025-05-16,North,Jaipur,Fashion,Wallet,4,699,5,2656.2,699.0,Credit Card,2656.2,0.0,2025-05
+ORD0049,2025-05-16,South,Hyderabad,Stationery,Office Chair,3,5499,5,15672.15,1814.67,Net Banking,15672.15,0.0,2025-05
+ORD0250,2025-05-17,West,Ahmedabad,Electronics,Headphones,2,1999,10,3598.2,479.76,UPI,3598.2000000000003,-0.0,2025-05
+ORD0154,2025-05-20,East,Ranchi,Stationery,Planner,1,349,0,349.0,125.64,Net Banking,349.0,0.0,2025-05
+ORD0123,2025-05-21,South,Hyderabad,Stationery,Office Chair,3,5499,0,16497.0,2639.52,Debit Card,16497.0,0.0,2025-05
+ORD0037,2025-05-26,North,Chandigarh,Fashion,Backpack,2,1199,10,2158.2,383.68,UPI,2158.2000000000003,-0.0,2025-05
+ORD0030,2025-05-27,East,Ranchi,Home & Kitchen,Storage Box,1,599,20,479.2,59.9,Net Banking,479.20000000000005,-0.0,2025-05
+ORD0120,2025-05-28,North,Delhi,Stationery,Office Chair,5,5499,5,26120.25,3024.45,Cash on Delivery,26120.25,0.0,2025-05
+ORD0226,2025-05-28,South,Kochi,Stationery,Office Chair,3,5499,10,14847.3,989.82,Net Banking,14847.300000000001,-0.0,2025-05
+ORD0237,2025-05-28,North,Chandigarh,Fashion,Wallet,1,699,20,559.2,69.9,Debit Card,559.2,0.0,2025-05
+ORD0238,2025-05-28,South,Kochi,Stationery,Office Chair,4,5499,15,18696.6,219.96,Debit Card,18696.6,0.0,2025-05
+ORD0160,2025-05-29,South,Kochi,Electronics,Headphones,1,1999,20,1599.2,39.98,Cash on Delivery,1599.2,0.0,2025-05
+ORD0217,2025-05-29,West,Surat,Home & Kitchen,Desk Lamp,1,999,0,999.0,269.73,UPI,999.0,0.0,2025-05
+ORD0195,2025-05-31,North,Delhi,Home & Kitchen,Water Bottle,1,399,5,379.05,119.7,Cash on Delivery,379.04999999999995,0.0,2025-05
+ORD0127,2025-06-01,West,Mumbai,Stationery,Notebook Pack,1,249,20,199.2,44.82,Cash on Delivery,199.20000000000002,-0.0,2025-06
+ORD0248,2025-06-01,North,Jaipur,Stationery,Planner,2,349,0,698.0,251.28,UPI,698.0,0.0,2025-06
+ORD0157,2025-06-04,North,Jaipur,Fashion,Sneakers,1,2299,0,2299.0,482.79,Cash on Delivery,2299.0,0.0,2025-06
+ORD0083,2025-06-06,West,Surat,Fashion,Wallet,5,699,10,3145.5,699.0,Debit Card,3145.5,0.0,2025-06
+ORD0092,2025-06-06,South,Hyderabad,Home & Kitchen,Storage Box,1,599,0,599.0,179.7,Credit Card,599.0,0.0,2025-06
+ORD0052,2025-06-10,South,Chennai,Fashion,Wallet,1,699,10,629.1,139.8,Net Banking,629.1,0.0,2025-06
+ORD0034,2025-06-11,West,Pune,Fashion,T-Shirt,1,499,0,499.0,159.68,Debit Card,499.0,0.0,2025-06
+ORD0296,2025-06-12,West,Mumbai,Electronics,Wireless Mouse,4,799,5,3036.2,735.08,Debit Card,3036.2,0.0,2025-06
+ORD0219,2025-06-13,West,Surat,Home & Kitchen,Mixer,2,2499,0,4998.0,899.64,Credit Card,4998.0,0.0,2025-06
+ORD0269,2025-06-13,East,Ranchi,Home & Kitchen,Mixer,1,2499,15,2124.15,74.97,Cash on Delivery,2124.15,0.0,2025-06
+ORD0111,2025-06-14,North,Jaipur,Stationery,Pens Set,3,149,5,424.65,156.45,Debit Card,424.65,0.0,2025-06
+ORD0169,2025-06-14,East,Bhubaneswar,Electronics,Power Bank,1,1499,15,1274.15,74.95,Debit Card,1274.1499999999999,0.0,2025-06
+ORD0098,2025-06-15,West,Mumbai,Electronics,Keyboard,5,1299,15,5520.75,649.5,Net Banking,5520.75,0.0,2025-06
+ORD0235,2025-06-16,East,Ranchi,Fashion,T-Shirt,2,499,10,898.2,219.56,Net Banking,898.2,0.0,2025-06
+ORD0200,2025-06-17,West,Ahmedabad,Stationery,Planner,1,349,5,331.55,108.19,Cash on Delivery,331.55,0.0,2025-06
+ORD0113,2025-06-19,South,Kochi,Electronics,Power Bank,1,1499,0,1499.0,299.8,Credit Card,1499.0,0.0,2025-06
+ORD0193,2025-06-20,North,Delhi,Fashion,Sneakers,3,2299,0,6897.0,1448.37,Cash on Delivery,6897.0,0.0,2025-06
+ORD0063,2025-06-21,West,Mumbai,Home & Kitchen,Storage Box,1,599,10,539.1,119.8,Credit Card,539.1,0.0,2025-06
+ORD0246,2025-06-21,West,Surat,Stationery,Pens Set,3,149,10,402.3,134.1,Credit Card,402.3,0.0,2025-06
+ORD0145,2025-06-23,East,Ranchi,Stationery,Notebook Pack,1,249,5,236.55,82.17,Debit Card,236.54999999999998,0.0,2025-06
+ORD0109,2025-06-24,West,Mumbai,Fashion,Sneakers,3,2299,10,6207.3,758.67,Cash on Delivery,6207.3,0.0,2025-06
+ORD0048,2025-06-29,East,Patna,Electronics,Wireless Mouse,3,799,5,2277.15,551.31,Net Banking,2277.15,0.0,2025-06
+ORD0151,2025-06-29,South,Bengaluru,Home & Kitchen,Desk Lamp,1,999,10,899.1,169.83,UPI,899.1,0.0,2025-06
+ORD0025,2025-07-01,East,Ranchi,Stationery,Notebook Pack,2,249,20,398.4,89.64,UPI,398.40000000000003,-0.0,2025-07
+ORD0236,2025-07-01,West,Surat,Home & Kitchen,Storage Box,1,599,5,569.05,149.75,Debit Card,569.05,0.0,2025-07
+ORD0294,2025-07-02,East,Ranchi,Home & Kitchen,Desk Lamp,1,999,10,899.1,169.83,Credit Card,899.1,0.0,2025-07
+ORD0043,2025-07-03,North,Jaipur,Electronics,Headphones,3,1999,15,5097.45,419.79,Cash on Delivery,5097.45,0.0,2025-07
+ORD0276,2025-07-04,East,Ranchi,Electronics,Power Bank,3,1499,5,4272.15,674.55,Credit Card,4272.15,0.0,2025-07
+ORD0203,2025-07-05,East,Kolkata,Home & Kitchen,Desk Lamp,4,999,5,3796.2,879.12,UPI,3796.2,0.0,2025-07
+ORD0272,2025-07-09,South,Bengaluru,Electronics,Headphones,1,1999,10,1799.1,239.88,UPI,1799.1000000000001,-0.0,2025-07
+ORD0277,2025-07-09,West,Surat,Electronics,Keyboard,3,1299,0,3897.0,974.25,Net Banking,3897.0,0.0,2025-07
+ORD0147,2025-07-10,North,Delhi,Fashion,Backpack,1,1199,15,1019.15,131.89,Cash on Delivery,1019.15,0.0,2025-07
+ORD0146,2025-07-11,North,Chandigarh,Electronics,Wireless Mouse,3,799,0,2397.0,671.16,UPI,2397.0,0.0,2025-07
+ORD0260,2025-07-11,East,Ranchi,Stationery,Planner,1,349,20,279.2,55.84,Net Banking,279.2,0.0,2025-07
+ORD0069,2025-07-14,West,Pune,Stationery,Office Chair,1,5499,15,4674.15,54.99,Debit Card,4674.15,0.0,2025-07
+ORD0115,2025-07-14,West,Surat,Electronics,Wireless Mouse,1,799,10,719.1,143.82,Debit Card,719.1,0.0,2025-07
+ORD0198,2025-07-17,West,Pune,Stationery,Planner,1,349,15,296.65,73.29,Debit Card,296.65,0.0,2025-07
+ORD0065,2025-07-19,South,Kochi,Stationery,Notebook Pack,4,249,5,946.2,328.68,Cash on Delivery,946.1999999999999,0.0,2025-07
+ORD0245,2025-07-23,East,Bhubaneswar,Fashion,Backpack,1,1199,10,1079.1,191.84,UPI,1079.1000000000001,-0.0,2025-07
+ORD0029,2025-07-25,South,Bengaluru,Stationery,Notebook Pack,5,249,5,1182.75,410.85,Cash on Delivery,1182.75,0.0,2025-07
+ORD0142,2025-07-25,East,Kolkata,Stationery,Planner,1,349,0,349.0,125.64,Net Banking,349.0,0.0,2025-07
+ORD0033,2025-07-26,South,Bengaluru,Electronics,Wireless Mouse,1,799,10,719.1,143.82,Net Banking,719.1,0.0,2025-07
+ORD0225,2025-07-26,West,Mumbai,Stationery,Notebook Pack,2,249,0,498.0,189.24,Net Banking,498.0,0.0,2025-07
+ORD0045,2025-07-30,North,Lucknow,Home & Kitchen,Water Bottle,1,399,0,399.0,139.65,Cash on Delivery,399.0,0.0,2025-07
+ORD0118,2025-07-30,North,Jaipur,Home & Kitchen,Water Bottle,2,399,5,758.1,239.4,Credit Card,758.0999999999999,0.0,2025-07
+ORD0234,2025-07-31,North,Chandigarh,Stationery,Notebook Pack,2,249,10,448.2,139.44,Net Banking,448.2,0.0,2025-07
+ORD0190,2025-08-02,North,Delhi,Fashion,Backpack,4,1199,10,4316.4,767.36,Net Banking,4316.400000000001,-0.0,2025-08
+ORD0066,2025-08-03,North,Chandigarh,Home & Kitchen,Mixer,2,2499,0,4998.0,899.64,Debit Card,4998.0,0.0,2025-08
+ORD0133,2025-08-03,North,Chandigarh,Electronics,Power Bank,2,1499,20,2398.4,0.0,Debit Card,2398.4,0.0,2025-08
+ORD0070,2025-08-04,West,Mumbai,Stationery,Notebook Pack,3,249,0,747.0,283.86,Debit Card,747.0,0.0,2025-08
+ORD0140,2025-08-04,South,Hyderabad,Stationery,Planner,3,349,10,942.3,272.22,UPI,942.3000000000001,-0.0,2025-08
+ORD0027,2025-08-05,North,Lucknow,Stationery,Pens Set,3,149,0,447.0,178.8,Net Banking,447.0,0.0,2025-08
+ORD0061,2025-08-07,East,Bhubaneswar,Stationery,Planner,1,349,0,349.0,125.64,Debit Card,349.0,0.0,2025-08
+ORD0159,2025-08-12,South,Kochi,Electronics,Headphones,2,1999,10,3598.2,479.76,Cash on Delivery,3598.2000000000003,-0.0,2025-08
+ORD0183,2025-08-12,South,Bengaluru,Stationery,Office Chair,4,5499,5,20896.2,2419.56,Cash on Delivery,20896.2,0.0,2025-08
+ORD0125,2025-08-14,South,Chennai,Home & Kitchen,Water Bottle,4,399,5,1516.2,478.8,Cash on Delivery,1516.1999999999998,0.0,2025-08
+ORD0166,2025-08-14,South,Kochi,Stationery,Office Chair,3,5499,10,14847.3,989.82,Debit Card,14847.300000000001,-0.0,2025-08
+ORD0207,2025-08-16,South,Chennai,Fashion,Backpack,2,1199,5,2278.1,503.58,Debit Card,2278.1,0.0,2025-08
+ORD0141,2025-08-20,North,Delhi,Fashion,Wallet,2,699,0,1398.0,419.4,Cash on Delivery,1398.0,0.0,2025-08
+ORD0144,2025-08-21,East,Kolkata,Electronics,Keyboard,2,1299,15,2208.3,259.8,Cash on Delivery,2208.2999999999997,0.0,2025-08
+ORD0253,2025-08-21,West,Surat,Stationery,Pens Set,3,149,10,402.3,134.1,Net Banking,402.3,0.0,2025-08
+ORD0058,2025-08-22,East,Bhubaneswar,Stationery,Planner,1,349,0,349.0,125.64,UPI,349.0,0.0,2025-08
+ORD0060,2025-08-22,North,Chandigarh,Fashion,Wallet,2,699,10,1258.2,279.6,Net Banking,1258.2,0.0,2025-08
+ORD0035,2025-08-23,West,Mumbai,Electronics,Power Bank,2,1499,10,2698.2,299.8,UPI,2698.2000000000003,-0.0,2025-08
+ORD0263,2025-08-24,West,Pune,Fashion,T-Shirt,4,499,10,1796.4,439.12,UPI,1796.4,0.0,2025-08
+ORD0286,2025-08-24,North,Jaipur,Fashion,Backpack,2,1199,15,2038.3,263.78,UPI,2038.3,0.0,2025-08
+ORD0055,2025-08-27,East,Ranchi,Home & Kitchen,Desk Lamp,3,999,20,2397.6,209.79,Credit Card,2397.6,0.0,2025-08
+ORD0078,2025-08-27,East,Patna,Fashion,T-Shirt,3,499,0,1497.0,479.04,Cash on Delivery,1497.0,0.0,2025-08
+ORD0220,2025-08-27,South,Chennai,Stationery,Pens Set,1,149,0,149.0,59.6,Cash on Delivery,149.0,0.0,2025-08
+ORD0112,2025-08-31,East,Ranchi,Home & Kitchen,Desk Lamp,5,999,0,4995.0,1348.65,Net Banking,4995.0,0.0,2025-08
+ORD0243,2025-09-02,North,Lucknow,Fashion,Sneakers,2,2299,15,3908.3,275.88,UPI,3908.2999999999997,0.0,2025-09
+ORD0283,2025-09-05,East,Kolkata,Electronics,Power Bank,1,1499,10,1349.1,149.9,Debit Card,1349.1000000000001,-0.0,2025-09
+ORD0176,2025-09-06,North,Jaipur,Home & Kitchen,Storage Box,1,599,15,509.15,89.85,UPI,509.15,0.0,2025-09
+ORD0256,2025-09-08,South,Kochi,Electronics,Power Bank,1,1499,5,1424.05,224.85,Net Banking,1424.05,0.0,2025-09
+ORD0209,2025-09-10,South,Chennai,Fashion,Wallet,3,699,10,1887.3,419.4,Net Banking,1887.3,0.0,2025-09
+ORD0119,2025-09-12,North,Jaipur,Stationery,Office Chair,2,5499,10,9898.2,659.88,Cash on Delivery,9898.2,0.0,2025-09
+ORD0107,2025-09-13,West,Ahmedabad,Stationery,Planner,5,349,0,1745.0,628.2,Net Banking,1745.0,0.0,2025-09
+ORD0279,2025-09-13,West,Ahmedabad,Stationery,Planner,2,349,10,628.2,181.48,Debit Card,628.2,0.0,2025-09
+ORD0184,2025-09-15,West,Pune,Stationery,Notebook Pack,1,249,0,249.0,94.62,UPI,249.0,0.0,2025-09
+ORD0215,2025-09-15,North,Jaipur,Home & Kitchen,Mixer,3,2499,10,6747.3,599.76,UPI,6747.3,0.0,2025-09
+ORD0223,2025-09-16,East,Bhubaneswar,Home & Kitchen,Mixer,1,2499,5,2374.05,324.87,Net Banking,2374.0499999999997,0.0,2025-09
+ORD0076,2025-09-17,West,Mumbai,Stationery,Planner,1,349,20,279.2,55.84,Cash on Delivery,279.2,0.0,2025-09
+ORD0167,2025-09-17,South,Chennai,Stationery,Planner,1,349,5,331.55,108.19,Debit Card,331.55,0.0,2025-09
+ORD0177,2025-09-17,South,Chennai,Home & Kitchen,Desk Lamp,1,999,0,999.0,269.73,Net Banking,999.0,0.0,2025-09
+ORD0050,2025-09-19,South,Kochi,Home & Kitchen,Mixer,1,2499,5,2374.05,324.87,Net Banking,2374.0499999999997,0.0,2025-09
+ORD0202,2025-09-20,North,Delhi,Home & Kitchen,Desk Lamp,1,999,0,999.0,269.73,Debit Card,999.0,0.0,2025-09
+ORD0023,2025-09-21,North,Lucknow,Stationery,Pens Set,2,149,10,268.2,89.4,Net Banking,268.2,0.0,2025-09
+ORD0103,2025-09-21,South,Kochi,Stationery,Notebook Pack,1,249,5,236.55,82.17,Cash on Delivery,236.54999999999998,0.0,2025-09
+ORD0229,2025-09-23,East,Bhubaneswar,Home & Kitchen,Mixer,4,2499,5,9496.2,1299.48,Cash on Delivery,9496.199999999999,0.0,2025-09
+ORD0062,2025-09-24,East,Bhubaneswar,Fashion,Wallet,1,699,5,664.05,174.75,Debit Card,664.05,0.0,2025-09
+ORD0017,2025-09-29,South,Chennai,Stationery,Notebook Pack,1,249,5,236.55,82.17,Debit Card,236.54999999999998,0.0,2025-09
+ORD0006,2025-10-02,South,Kochi,Electronics,Headphones,3,1999,10,5397.3,719.64,Debit Card,5397.3,0.0,2025-10
+ORD0284,2025-10-02,West,Mumbai,Stationery,Pens Set,1,149,0,149.0,59.6,Credit Card,149.0,0.0,2025-10
+ORD0051,2025-10-03,North,Lucknow,Stationery,Notebook Pack,4,249,15,846.6,229.08,Net Banking,846.6,0.0,2025-10
+ORD0132,2025-10-03,North,Chandigarh,Stationery,Office Chair,2,5499,10,9898.2,659.88,Net Banking,9898.2,0.0,2025-10
+ORD0020,2025-10-04,North,Lucknow,Stationery,Office Chair,2,5499,10,9898.2,659.88,UPI,9898.2,0.0,2025-10
+ORD0031,2025-10-05,South,Chennai,Electronics,Wireless Mouse,2,799,10,1438.2,287.64,Net Banking,1438.2,0.0,2025-10
+ORD0196,2025-10-06,East,Patna,Electronics,Keyboard,1,1299,15,1104.15,129.9,UPI,1104.1499999999999,0.0,2025-10
+ORD0187,2025-10-08,East,Kolkata,Fashion,T-Shirt,1,499,0,499.0,159.68,Cash on Delivery,499.0,0.0,2025-10
+ORD0042,2025-10-10,North,Chandigarh,Home & Kitchen,Water Bottle,1,399,15,339.15,79.8,UPI,339.15,0.0,2025-10
+ORD0106,2025-10-10,East,Kolkata,Home & Kitchen,Water Bottle,2,399,0,798.0,279.3,Credit Card,798.0,0.0,2025-10
+ORD0212,2025-10-10,North,Jaipur,Stationery,Notebook Pack,3,249,10,672.3,209.16,Debit Card,672.3000000000001,-0.0,2025-10
+ORD0191,2025-10-11,South,Kochi,Stationery,Notebook Pack,2,249,20,398.4,89.64,Debit Card,398.40000000000003,-0.0,2025-10
+ORD0081,2025-10-12,South,Bengaluru,Electronics,Keyboard,3,1299,10,3507.3,584.55,Credit Card,3507.3,0.0,2025-10
+ORD0128,2025-10-13,West,Mumbai,Stationery,Notebook Pack,1,249,0,249.0,94.62,Debit Card,249.0,0.0,2025-10
+ORD0271,2025-10-13,North,Chandigarh,Home & Kitchen,Mixer,1,2499,10,2249.1,199.92,Cash on Delivery,2249.1,0.0,2025-10
+ORD0003,2025-10-15,North,Chandigarh,Home & Kitchen,Desk Lamp,2,999,15,1698.3,239.76,UPI,1698.3,0.0,2025-10
+ORD0041,2025-10-15,South,Hyderabad,Electronics,Keyboard,2,1299,15,2208.3,259.8,Net Banking,2208.2999999999997,0.0,2025-10
+ORD0130,2025-10-15,West,Pune,Electronics,Power Bank,4,1499,5,5696.2,899.4,Cash on Delivery,5696.2,0.0,2025-10
+ORD0150,2025-10-15,South,Chennai,Electronics,Keyboard,1,1299,15,1104.15,129.9,Debit Card,1104.1499999999999,0.0,2025-10
+ORD0290,2025-10-16,South,Bengaluru,Fashion,Backpack,5,1199,10,5395.5,959.2,Cash on Delivery,5395.5,0.0,2025-10
+ORD0153,2025-10-18,South,Hyderabad,Home & Kitchen,Storage Box,3,599,0,1797.0,539.1,UPI,1797.0,0.0,2025-10
+ORD0300,2025-10-20,North,Chandigarh,Home & Kitchen,Storage Box,1,599,5,569.05,149.75,Credit Card,569.05,0.0,2025-10
+ORD0204,2025-10-21,North,Lucknow,Stationery,Office Chair,2,5499,0,10998.0,1759.68,UPI,10998.0,0.0,2025-10
+ORD0189,2025-10-22,North,Jaipur,Fashion,Wallet,1,699,5,664.05,174.75,Net Banking,664.05,0.0,2025-10
+ORD0007,2025-10-23,North,Delhi,Electronics,Keyboard,3,1299,20,3117.6,194.85,Credit Card,3117.6000000000004,-0.0,2025-10
+ORD0024,2025-10-23,East,Bhubaneswar,Stationery,Planner,1,349,0,349.0,125.64,Cash on Delivery,349.0,0.0,2025-10
+ORD0232,2025-10-23,North,Delhi,Stationery,Pens Set,2,149,10,268.2,89.4,Cash on Delivery,268.2,0.0,2025-10
+ORD0258,2025-10-24,South,Hyderabad,Stationery,Office Chair,2,5499,10,9898.2,659.88,UPI,9898.2,0.0,2025-10
+ORD0278,2025-10-27,East,Patna,Home & Kitchen,Storage Box,1,599,5,569.05,149.75,Credit Card,569.05,0.0,2025-10
+ORD0099,2025-10-28,South,Chennai,Electronics,Keyboard,2,1299,10,2338.2,389.7,Debit Card,2338.2000000000003,-0.0,2025-10
+ORD0068,2025-10-31,South,Hyderabad,Stationery,Pens Set,3,149,0,447.0,178.8,Debit Card,447.0,0.0,2025-10
+ORD0014,2025-11-02,South,Kochi,Stationery,Planner,2,349,20,558.4,111.68,UPI,558.4,0.0,2025-11
+ORD0086,2025-11-02,West,Mumbai,Home & Kitchen,Mixer,1,2499,0,2499.0,449.82,UPI,2499.0,0.0,2025-11
+ORD0091,2025-11-02,North,Chandigarh,Stationery,Planner,1,349,10,314.1,90.74,Cash on Delivery,314.1,0.0,2025-11
+ORD0265,2025-11-03,South,Bengaluru,Electronics,Power Bank,2,1499,10,2698.2,299.8,UPI,2698.2000000000003,-0.0,2025-11
+ORD0293,2025-11-06,East,Patna,Electronics,Headphones,3,1999,10,5397.3,719.64,Credit Card,5397.3,0.0,2025-11
+ORD0179,2025-11-09,West,Surat,Home & Kitchen,Storage Box,1,599,15,509.15,89.85,Cash on Delivery,509.15,0.0,2025-11
+ORD0221,2025-11-12,East,Bhubaneswar,Home & Kitchen,Mixer,4,2499,10,8996.4,799.68,Credit Card,8996.4,0.0,2025-11
+ORD0230,2025-11-12,West,Ahmedabad,Stationery,Office Chair,2,5499,0,10998.0,1759.68,Debit Card,10998.0,0.0,2025-11
+ORD0044,2025-11-14,North,Jaipur,Home & Kitchen,Storage Box,4,599,0,2396.0,718.8,Debit Card,2396.0,0.0,2025-11
+ORD0095,2025-11-17,North,Chandigarh,Electronics,Keyboard,2,1299,15,2208.3,259.8,Credit Card,2208.2999999999997,0.0,2025-11
+ORD0104,2025-11-17,East,Kolkata,Home & Kitchen,Mixer,2,2499,15,4248.3,149.94,Cash on Delivery,4248.3,0.0,2025-11
+ORD0268,2025-11-17,East,Ranchi,Electronics,Headphones,4,1999,10,7196.4,959.52,Net Banking,7196.400000000001,-0.0,2025-11
+ORD0163,2025-11-21,South,Bengaluru,Fashion,Sneakers,3,2299,15,5862.45,413.82,Credit Card,5862.45,0.0,2025-11
+ORD0088,2025-11-23,East,Kolkata,Electronics,Headphones,2,1999,5,3798.1,679.66,Credit Card,3798.1,0.0,2025-11
+ORD0001,2025-11-24,South,Hyderabad,Fashion,T-Shirt,1,499,10,449.1,109.78,Net Banking,449.1,0.0,2025-11
+ORD0188,2025-11-24,East,Kolkata,Electronics,Power Bank,2,1499,0,2998.0,599.6,Net Banking,2998.0,0.0,2025-11
+ORD0185,2025-11-29,West,Pune,Home & Kitchen,Water Bottle,1,399,15,339.15,79.8,Credit Card,339.15,0.0,2025-11
+ORD0244,2025-11-30,North,Delhi,Home & Kitchen,Desk Lamp,4,999,0,3996.0,1078.92,UPI,3996.0,0.0,2025-11
+ORD0224,2025-12-01,East,Patna,Electronics,Wireless Mouse,2,799,15,1358.3,207.74,Debit Card,1358.3,0.0,2025-12
+ORD0197,2025-12-02,West,Ahmedabad,Electronics,Headphones,2,1999,5,3798.1,679.66,Cash on Delivery,3798.1,0.0,2025-12
+ORD0173,2025-12-03,North,Lucknow,Electronics,Keyboard,4,1299,5,4936.2,1039.2,Cash on Delivery,4936.2,0.0,2025-12
+ORD0056,2025-12-04,South,Chennai,Fashion,Backpack,3,1199,15,3057.45,395.67,Debit Card,3057.45,0.0,2025-12
+ORD0156,2025-12-08,West,Mumbai,Home & Kitchen,Desk Lamp,5,999,0,4995.0,1348.65,Credit Card,4995.0,0.0,2025-12
+ORD0251,2025-12-08,South,Kochi,Fashion,T-Shirt,1,499,10,449.1,109.78,Debit Card,449.1,0.0,2025-12
+ORD0067,2025-12-09,East,Bhubaneswar,Stationery,Pens Set,5,149,10,670.5,223.5,Cash on Delivery,670.5,0.0,2025-12
+ORD0281,2025-12-09,South,Hyderabad,Stationery,Pens Set,3,149,0,447.0,178.8,Credit Card,447.0,0.0,2025-12
+ORD0129,2025-12-11,West,Surat,Fashion,Backpack,2,1199,10,2158.2,383.68,Net Banking,2158.2000000000003,-0.0,2025-12
+ORD0231,2025-12-11,South,Kochi,Fashion,Backpack,2,1199,5,2278.1,503.58,Net Banking,2278.1,0.0,2025-12
+ORD0074,2025-12-13,East,Ranchi,Home & Kitchen,Water Bottle,2,399,15,678.3,159.6,Credit Card,678.3,0.0,2025-12
+ORD0015,2025-12-15,South,Chennai,Fashion,Backpack,1,1199,0,1199.0,311.74,UPI,1199.0,0.0,2025-12
+ORD0242,2025-12-15,North,Delhi,Home & Kitchen,Desk Lamp,2,999,15,1698.3,239.76,Cash on Delivery,1698.3,0.0,2025-12
+ORD0135,2025-12-18,West,Ahmedabad,Electronics,Power Bank,1,1499,20,1199.2,0.0,Cash on Delivery,1199.2,0.0,2025-12
+ORD0082,2025-12-20,East,Ranchi,Stationery,Notebook Pack,1,249,0,249.0,94.62,Credit Card,249.0,0.0,2025-12
+ORD0121,2025-12-20,West,Surat,Fashion,T-Shirt,5,499,15,2120.75,424.15,UPI,2120.75,0.0,2025-12
+ORD0161,2025-12-20,West,Mumbai,Stationery,Notebook Pack,1,249,10,224.1,69.72,Net Banking,224.1,0.0,2025-12
+ORD0252,2025-12-20,South,Chennai,Fashion,T-Shirt,1,499,0,499.0,159.68,Credit Card,499.0,0.0,2025-12
+ORD0194,2025-12-23,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,399,20,638.4,119.7,UPI,638.4000000000001,-0.0,2025-12
+ORD0105,2025-12-24,East,Kolkata,Electronics,Keyboard,2,1299,5,2468.1,519.6,UPI,2468.1,0.0,2025-12
+ORD0097,2025-12-25,East,Patna,Stationery,Planner,1,349,0,349.0,125.64,Cash on Delivery,349.0,0.0,2025-12
+ORD0009,2025-12-26,South,Bengaluru,Home & Kitchen,Storage Box,2,599,5,1138.1,299.5,Net Banking,1138.1,0.0,2025-12
+ORD0084,2025-12-26,East,Patna,Fashion,Sneakers,1,2299,10,2069.1,252.89,Debit Card,2069.1,0.0,2025-12
+ORD0186,2025-12-28,East,Ranchi,Electronics,Wireless Mouse,1,799,0,799.0,223.72,Credit Card,799.0,0.0,2025-12
+ORD0077,2025-12-29,North,Chandigarh,Home & Kitchen,Mixer,2,2499,15,4248.3,149.94,Cash on Delivery,4248.3,0.0,2025-12
+ORD0087,2025-12-29,North,Lucknow,Electronics,Wireless Mouse,2,799,10,1438.2,287.64,Credit Card,1438.2,0.0,2025-12
